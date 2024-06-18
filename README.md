@@ -19,7 +19,23 @@ npm run dev // 開発サーバー起動　
 npm run build // ビルド
 npm run start // 本番サーバー起動
 npm run lint // eslint実行
+npm run format // prettire実行
 ```
+
+## パッケージについて
+
+主なパッケージです。
+
+### Style
+
+- [tailwindcss](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+
+### linter・formatter
+
+- eslint
+- prettire
+- prettier-plugin-tailwindcss
 
 ## ディレクトリ構成
 
